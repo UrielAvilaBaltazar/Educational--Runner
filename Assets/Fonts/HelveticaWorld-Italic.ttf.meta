@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2a37cf84b848b524c80e10e6d7b003c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Helvetica World
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c06208a3f89e50d4daf07b754e0e09c1, type: 3}
+  - {fileID: 12800000, guid: b80e20de979f347479ff1a687b3b9a7c, type: 3}
+  - {fileID: 12800000, guid: e0e19dedea504af45acbd109c517c0c0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

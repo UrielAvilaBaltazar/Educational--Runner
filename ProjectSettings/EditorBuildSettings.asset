@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicio/MenuInicial.unity
+    guid: 17d815b93cb388c4f8e5d24c0f39c68e
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicio/Elegir_Nivel.unity
+    guid: a8a0bdbac53168f4f944f162ff7ffe92
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones/I_Animales1.unity
+    guid: 37471779b3570754ea086bf7f8c21827
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones/I_Animales2.unity
+    guid: 36bbbe745d75f4f45a3bd6e1cbf67117
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones/I_Color1.unity
+    guid: 55f505203e163b5479cab01d80e3ad6b
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones/I_Color2.unity
+    guid: 347161d4b5a203d4984bf1d2a4fdd35b
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones/I_Mate1.unity
+    guid: 382ddb14595f6e944b3a576b36ad5ac5
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones/I_Mate2.unity
+    guid: e10cbcaa47b121145905ad082d01b8c1
+  - enabled: 1
+    path: Assets/Scenes/PantallasCarga/P_Carga1.unity
+    guid: 15834749a2361f148a99306216fa0a98
+  - enabled: 1
+    path: Assets/Scenes/PantallasCarga/P_Carga4.unity
+    guid: be63773525701874bbb5a3acb1f10d32
+  - enabled: 1
+    path: Assets/Scenes/PantallasCarga/P_Carga2.unity
+    guid: 7394a4414725da447a197fcdb9a49a1c
+  - enabled: 1
+    path: Assets/Scenes/PantallasCarga/P_Carga5.unity
+    guid: 3a2c8b0402cc18d4d92c60af90574521
+  - enabled: 1
+    path: Assets/Scenes/PantallasCarga/P_Carga3.unity
+    guid: 2f36bffbc52d7544b91fee44a38656c0
+  - enabled: 1
+    path: Assets/Scenes/PantallasCarga/P_Carga6.unity
+    guid: bdffd740b3c07a549941f5d5754b1130
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel_Animales.unity
+    guid: d0cf51fc5b81aef42a3e0c77ad2536c1
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel_Colores.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel_Matematicas.unity
+    guid: 5c66365fef370c94abc9ed35191ec5e0
+  - enabled: 1
+    path: Assets/Scenes/Pantallas ganar/W_Animal.unity
+    guid: 3e96da803851f174b936655fcd654a5f
+  - enabled: 1
+    path: Assets/Scenes/Pantallas ganar/W_Color.unity
+    guid: 2aee38dfb5e9ff341b6e02603a520c37
+  - enabled: 1
+    path: Assets/Scenes/Pantallas ganar/W_Mate.unity
+    guid: f4f97172ffc80434aa11d53cc29a9727
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicio/Acerca_De.unity
+    guid: 5fe8f06715a620149a79b27d09628b0d
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicio/MenuSalir.unity
+    guid: 3f42f8ee4d257934785f6f7d60885499
+  - enabled: 1
+    path: Assets/Scenes/Pantallas ganar/W_Moneda.unity
+    guid: e22c8cfee401222428d2bc72471ce9dc
+  m_configObjects: {}
